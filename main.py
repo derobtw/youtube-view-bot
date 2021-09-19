@@ -1,4 +1,4 @@
-#first you need to download a chrome driver and set the location to C:\Program Files (x86)
+#first you need to download a chrome driver and set the location in to C:\Program Files (x86)
 #be sure that your main google chrome and the driver is on the same version
 
 from time import sleep
